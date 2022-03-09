@@ -1,0 +1,18 @@
+1.Employee Name----- Rammohan Reddy T
+2.Date of Joining ---- 01-04-2020
+3.Date of Relieving---- 18-06-2021
+4.Designation------ software engineer
+5.Reason of Leaving ---- for better career growth
+6.Current operational Address- compny address
+7.Verifier’s Name & Designation-----
+8.Verifier’s Department--------
+
+
+
+
+a. Bank statement for complete tenure of employment.
+Please ensure to mask all other transaction details (whether debit or credit entries) except for salary transfer
+details of your last employer, such that only salary credits of previous employment are visible.
+b. Form 16 (Part A) only if there was Income Tax deduction.
+c. Provident Fund Number
+d. Pay slips
